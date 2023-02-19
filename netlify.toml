@@ -2,7 +2,6 @@
 from = "/*"
 to = "https://express-react-trello-api.onrender.com/"
 status = 200
-force = true
 
 [[redirects]]
 from = "/*"
