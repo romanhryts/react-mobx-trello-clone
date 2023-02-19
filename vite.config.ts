@@ -10,4 +10,8 @@ export default defineConfig({
             src: path.resolve('src/'),
         },
     },
+    base: "",
+    build: {
+        outDir: "dist"
+    }
 })
